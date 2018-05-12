@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3957
     wikipedia: http://en.wikipedia.org/wiki/Russell_Doubleday
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13826#A-Gunner-Aboard-the--Yankee---13-From-the-Diary-of-Number-Five-of-the-After-Port-Gun--Russell_
 gutenberg_issued: '2004-10-21'
 gutenberg_type: Text
 identifiers:
